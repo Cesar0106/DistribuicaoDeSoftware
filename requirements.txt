@@ -1,0 +1,5 @@
+name='dev_aberto_cesarea'
+version='0.1'
+packages=['dev_aberto']
+install_requires=['pacote>=1.0','pacote2']
+
